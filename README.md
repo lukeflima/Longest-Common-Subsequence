@@ -1,4 +1,3 @@
-#Programação Dinâmica
 #Longest Common Subsequence
 O problema maior subsequência comum (LCS) é o problema de encontrar o maior subsequência comum a todas as seqüências em um conjunto de sequências (frequentemente apenas duas sequências). 
 #Teste
