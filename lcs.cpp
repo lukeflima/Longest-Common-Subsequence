@@ -22,7 +22,6 @@ int main(int argc, char** argv){
 	std::string s1, s2;
 	std::cin >> n;
 	for(int i = 0; i<n; i++){
-		std::cin >> x >> y;
 		std::cin >> s1 >> s2;
 		std::cout << LCS(s1,s2) << std::endl;
 	}
