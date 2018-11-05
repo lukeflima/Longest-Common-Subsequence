@@ -1,8 +1,8 @@
-#Longest Common Subsequence
+# Longest Common Subsequence
 O problema maior subsequência comum (LCS) é o problema de encontrar o maior subsequência comum a todas as sequências em um conjunto de sequências (frequentemente apenas duas sequências). 
-#Teste
+# Teste
 Arquivo recebe o número de teste que será realizados e a entradas formatado, ou com um espaço entre as sequências ou uma em cada linha.
-###Exemplo
+### Exemplo
 ```
 11
 AGHFP
